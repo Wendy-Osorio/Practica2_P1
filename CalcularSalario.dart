@@ -1,5 +1,5 @@
-//*Nombre de la escuela: Universidad Teconológica Metropolitana
-//*Asignatura: Desarrollo móvil Multiplataforma.
+//*Nombre de la escuela: Universidad Teconologica Metropolitana
+//*Asignatura: Desarrollo Web Multiplataforma.
 //*Nombre del Maestro: Ing. Joel Ivan Chuc Uc.
 //*Nombre de la actividad: Ejercicio 1 - Calcular salario semana.
 //*Nombre del alumno: Wendy Yazmin Osorio Solis.
